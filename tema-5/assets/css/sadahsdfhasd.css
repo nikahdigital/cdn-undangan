@@ -1734,8 +1734,7 @@
         height: 100vh;
         z-index: 1000;
         background-color: coral;
-        background: url("../../assets/img/cover.jpg") center center;
-        background-size: cover;
+   
         bottom: 0;
         top: 0;
         left: 0;
