@@ -1,0 +1,63 @@
+
+
+  .container-body {
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+
+
+
+  #timer {
+      font-weight: 100;
+      margin: auto;
+
+  }
+
+
+
+  .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+      padding: 0px;
+  }
+
+
+
+      #timer {
+/*            font-size: 20px;*/
+          margin: auto;
+
+      }
+
+
+
+
+.atm-card {
+  max-width: 350px;
+  width: 100%;
+  border-radius: 15px;
+  background-color: #fdfdfd;
+  background-image: url('https://www.transparenttextures.com/patterns/flowers.png');
+  background-size: cover;
+  padding: 20px 25px;
+  color: #2c2c2c;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+
+
+.bank-logo {
+  width: 80px;
+}
+
+
+.chip {
+  width: 45px;
+}
+
+
+.btn-copy {
+  background-color: #7b5e45;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  padding: 5px 15px;
+  transition: 0.3s ease;
+}
